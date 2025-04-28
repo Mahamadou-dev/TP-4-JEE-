@@ -1,0 +1,12 @@
+com\tests\servlets\CompteClientServlet.class
+com\tests\dao\ProfilClientDao.class
+com\tests\dao\CompteClientImp.class
+com\mycompany\tp4jee\JakartaRestConfiguration.class
+com\mycompany\tp4jee\resources\JakartaEE10Resource.class
+com\tests\dao\CompteClientsDao.class
+com\tests\dao\ConnexionBD.class
+com\tests\dao\ProfilClientImp.class
+com\tests\beans\CompteClient.class
+com\tests\dao\DaoFactory.class
+com\tests\servlets\ProfilClientServlet.class
+com\tests\beans\ProfilClient.class
